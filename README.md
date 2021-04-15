@@ -21,7 +21,7 @@ It is important to note that a field containing light gray text does not indicat
 - Filtered by all five criteria: only UFOs sighted on 1/1/2010 in el cajon, ca, us with a triangle shape are displayed in the table.
 ![only-date-image](webpage-screenshots/ufos-all-filters.png)
 
-## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development
+## Summary
 
 There is one major drawback to how the filter search capability is currently constructed. This drawback is the lack of any sort of field validation in the filter search. The lack of validation makes it very easy for users to create searches, which yield no results. This contributes to an overall poor user experience, as it forces users to either scan the entire table for valid inputs or hope any given input will not generate a blank table.
 
